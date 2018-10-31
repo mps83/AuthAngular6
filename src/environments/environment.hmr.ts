@@ -7,6 +7,6 @@ export const environment = {
     storageBucket: 'myapp-d3c31.appspot.com',
     messagingSenderId: '806289796957'
   },
-  production: true,
-  hmr: false
+  production: false,
+  hmr: true
 };
